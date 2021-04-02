@@ -6,7 +6,7 @@ A mash up of [iA Writer Duospace](https://github.com/iaolo/iA-Fonts/tree/master/
 
 This is a variable width font. You can read more at [In Search of the Perfect Writing Font](https://ia.net/topics/in-search-of-the-perfect-writing-font) about iA Writer Duospace.
 
-The family name is `Stolen Victory Duo`. It's designed for writing and not recommended for applications where mono-spaced fonts are required.
+The family name is `Stolen Victory Duo`. It's designed for writing and not recommended for applications where mono-spaced fonts are required. Stick to [Victor Mono](https://rubjo.github.io/victor-mono/) for that.
 
 ![Preview](StolenVictoryDuo.png)
 
