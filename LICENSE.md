@@ -4,7 +4,7 @@ Copyright © 2021 ThiefMD. with Reserved Font Name "Stolen Victory Duospace"
 
 # Based on Victor Mono
 
-Copyright © 2017 Rune Bjørnerås. with Reserved Font Name "iA Writer"
+Copyright © 2019 Rune Bjørnerås. Under an MIT License.
 
 # Based on iA Writer Typeface
 
