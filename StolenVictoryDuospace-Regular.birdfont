@@ -430,7 +430,7 @@
 	<selected id="1"/>
 	<glyph id="1" left="0" right="60">
 		<layer name="Layer" visible="true">
-			<path data="S 9,69.8 L 52,69.8 L 52,62.5 L 17.4,62.5 L 17.4,39 L 46,39 L 46,31.7 L 17.4,31.7 L 17.4,7.3 L 52,7.3 L 52,0 L 9,0 L 9,69.8" />
+			<path data="S 9,69.8 L 52,69.8 L 52,62.5 L 17.4,62.5 L 17.4,39 L 41,39 L 41,31.7 L 17.4,31.7 L 17.4,7.3 L 52,7.3 L 52,0 L 9,0 L 9,69.8" />
 		</layer>
 	</glyph>
 </collection>
