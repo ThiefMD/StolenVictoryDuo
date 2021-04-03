@@ -17,3 +17,6 @@ The family name is `Stolen Victory Duo`. It's designed for writing and not recom
 ## Sans Font
 
 This is [IBM Plex Sans](https://github.com/IBM/plex) with the same adjustments that were made to iA Writer Duospace. It's mostly for the website and lacks additional ligatures.
+
+![Preview](StolenVictorySans.png)
+
