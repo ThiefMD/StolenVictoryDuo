@@ -19,7 +19,7 @@
 <units_per_em>1024</units_per_em>
 <trademark></trademark>
 <manufacturer></manufacturer>
-<designer>Mike Abbink, Bold Monday, modified by Oliver Reichenstein, modifief by ThiefMD</designer>
+<designer>Mike Abbink, Bold Monday, modified by Oliver Reichenstein, modified by ThiefMD</designer>
 <vendor_url>http://www.thiefmd.com</vendor_url>
 <vendor_id>Bird</vendor_id>
 <designer_url>http://www.ibm.com</designer_url>
@@ -440,6 +440,15 @@
 	<glyph id="1" left="0" right="60">
 		<layer name="Layer" visible="true">
 			<path data="S 9,69.8 L 53,69.8 L 53,62.5 L 17.4,62.5 L 17.4,39 L 50,39 L 50,31.7 L 17.4,31.7 L 17.4,0 L 9,0 L 9,69.8" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection name="Foot Note.svg" svg="true" colr="false" auto_generate="false" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="45.95268">
+		<layer name="Layer" visible="true">
+			<path data="S -11.31009,75.98157 L 16.68991,75.98157 L 16.68991,69.78157 L -4.41009,69.78157 L -4.41009,-7.61843 L 16.68991,-7.61843 L 16.68991,-13.81843 L -11.31009,-13.81843 L -11.31009,75.98157" />
 		</layer>
 	</glyph>
 </collection>
