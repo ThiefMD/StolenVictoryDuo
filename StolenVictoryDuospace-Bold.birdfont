@@ -15,7 +15,7 @@
 <copyright>(c) 2017 IBM Corp. All rights reserved.</copyright>
 <license></license>
 <license_url></license_url>
-<weight>400</weight>
+<weight>700</weight>
 <units_per_em>1024</units_per_em>
 <trademark></trademark>
 <manufacturer></manufacturer>
@@ -462,12 +462,35 @@
 	</glyph>
 </collection>
 
+<collection name="HTML Comment Close" svg="false" colr="false" auto_generate="true" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-41" right="110">
+		<layer name="Layer" visible="true">
+			<path data="S -35,40 L 90.71585,40.11895 L 90.71585,27.11895 L -35,27 L -35,40" />
+			<path data="S 56.08612,53.73177 L 56.08612,68.03177 L 104.08612,40.23177 L 104.08612,29.43177 L 56.08612,1.63177 L 56.08612,15.73177 L 89.68612,34.73177 L 56.08612,53.73177" />
+		</layer>
+	</glyph>
+</collection>
+
 <collection name="HTML Comment Close.svg" svg="true" colr="false" auto_generate="false" meta_name="">
 	<selected id="0"/>
 	<glyph id="0" left="-41" right="110">
 		<layer name="Layer" visible="true">
 			<path data="S -35,40 L 90.71585,40.11895 L 90.71585,27.11895 L -35,27 L -35,40" />
 			<path data="S 56.08612,53.73177 L 56.08612,68.03177 L 104.08612,40.23177 L 104.08612,29.43177 L 56.08612,1.63177 L 56.08612,15.73177 L 89.68612,34.73177 L 56.08612,53.73177" />
+		</layer>
+	</glyph>
+</collection>
+
+<collection name="HTML Comment Open" svg="false" colr="false" auto_generate="true" meta_name="">
+	<selected id="0"/>
+	<glyph id="0" left="-28" right="180">
+		<layer name="Layer" visible="true">
+			<path data="S 20.14955,67.08477 L 20.14955,52.98477 L -13.45045,33.98477 L 20.14955,14.98477 L 20.14955,0.68477 L -27.85045,28.48477 L -27.85045,39.28477 L 20.14955,67.08477" />
+			<path data="S 50.48415,46.98105 L 50.48415,69.88105 L 64.28415,69.88105 L 64.28415,46.98105 L 61.18415,18.38105 L 58.98415,18.38105 L 55.78415,18.38105 L 53.58415,18.38105 L 50.48415,46.98105" />
+			<path data="S 47.48415,2.68105 L 47.48415,4.48105 Q 47.48415,8.28105 50.08415,10.58105 Q 52.58415,12.98105 57.38415,12.98105 Q 62.18415,12.98105 64.68415,10.58105 Q 67.28415,8.28105 67.28415,4.48105 L 67.28415,2.68105 Q 67.28415,-1.11895 64.78415,-3.41895 Q 62.18415,-5.81895 57.38415,-5.81895 Q 52.58415,-5.81895 50.08415,-3.41895 Q 47.48415,-1.11895 47.48415,2.68105" />
+			<path data="S 73,40 L 173,40 L 173,27 L 73,27 L 73,40" />
+			<path data="S -15,40 L 42,40 L 42,27 L -14,27 L -15,40" />
 		</layer>
 	</glyph>
 </collection>
